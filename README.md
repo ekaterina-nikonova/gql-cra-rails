@@ -1,24 +1,12 @@
-# README
+# REST + GraphQL - Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository contains back-end code for [a blog post](https://blog.brittle-pins.com) that describes how to use JWT authentication with GraphQL in a Rails API and React app.
 
-Things you may want to cover:
+Here you can find a minimal <b>Rails + JWT Sessions + GraphQL</b> configuration.
 
-* Ruby version
+Versions:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby 2.6.3
+- Rails 5.2.3
+- JWT Sessions 2.4.3
+- GraphQL 1.9.15
